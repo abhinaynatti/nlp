@@ -1,0 +1,56 @@
+Iteration 1, loss = 0.11642841
+Iteration 2, loss = 0.03797982
+Iteration 3, loss = 0.03235239
+Iteration 4, loss = 0.02932618
+Iteration 5, loss = 0.02682937
+Iteration 6, loss = 0.02468188
+Iteration 7, loss = 0.02283386
+Iteration 8, loss = 0.02121384
+Iteration 9, loss = 0.02005618
+Iteration 10, loss = 0.01882616
+Iteration 11, loss = 0.01792269
+Iteration 12, loss = 0.01701285
+Iteration 13, loss = 0.01643852
+Iteration 14, loss = 0.01576634
+Iteration 15, loss = 0.01513930
+Iteration 16, loss = 0.01474702
+Iteration 17, loss = 0.01409154
+Iteration 18, loss = 0.01373917
+Iteration 19, loss = 0.01316712
+Iteration 20, loss = 0.01263437
+Iteration 21, loss = 0.01261680
+Iteration 22, loss = 0.01222024
+Iteration 23, loss = 0.01168507
+Iteration 24, loss = 0.01148647
+Iteration 25, loss = 0.01104139
+Iteration 26, loss = 0.01095917
+Iteration 27, loss = 0.01072823
+Iteration 28, loss = 0.01035097
+Iteration 29, loss = 0.01026159
+Iteration 30, loss = 0.00999375
+Iteration 31, loss = 0.00988497
+Iteration 32, loss = 0.00979170
+Iteration 33, loss = 0.00928871
+Iteration 34, loss = 0.00902267
+Iteration 35, loss = 0.00908415
+Iteration 36, loss = 0.00871343
+Iteration 37, loss = 0.00864811
+Iteration 38, loss = 0.00869878
+Iteration 39, loss = 0.00852201
+Iteration 40, loss = 0.00825040
+Iteration 41, loss = 0.00810398
+Iteration 42, loss = 0.00799502
+Iteration 43, loss = 0.00772726
+Iteration 44, loss = 0.00770561
+Iteration 45, loss = 0.00743247
+Iteration 46, loss = 0.00741887
+Iteration 47, loss = 0.00740364
+Iteration 48, loss = 0.00731439
+Training loss did not improve more than tol=0.000100 for two consecutive epochs. Stopping.
+             precision    recall  f1-score   support
+
+          0       1.00      1.00      1.00     13215
+          1       0.75      0.78      0.77       191
+
+avg / total       0.99      0.99      0.99     13406
+
